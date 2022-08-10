@@ -4,8 +4,16 @@
         "vid": "0x46f4",
         "sn": "1330LWN029210",
         "mac1": "0050569461BF"
+        "SataPortMap": "58",
+        "DiskIdxMap": "0A00"
     },
-    "synoinfo": {},
+    "synoinfo": {    
+    "internalportcfg": "0xffff",
+    "maxdisks": "16",
+    "support_bde_internal_10g": "no",
+    "support_disk_compatibility": "no",
+    "support_memory_compatibility": "no"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
